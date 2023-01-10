@@ -78,13 +78,13 @@ export default function Home() {
             writes. Flexible and adaptable to the demands of changing work environments. A perfect leader.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-              <a href="https://www.instagram.com/wissemsaadli/" target="_blank"> 
+              <a href="https://www.instagram.com/wissemsaadli/" > 
               <AiFillInstagram />
               </a>
-              <a href="https://www.linkedin.com/in/saadli-wissem-15338622a/" target="_blank">
+              <a href="https://www.linkedin.com/in/saadli-wissem-15338622a/" >
               <AiFillLinkedin />
               </a>
-              <a href=" https://github.com/saadliwissem" target="_blank">
+              <a href=" https://github.com/saadliwissem" >
               <AiFillGithub />
               </a>
             </div>
@@ -112,7 +112,7 @@ export default function Home() {
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
               <Image src={design} width={100} height={100} />
-              <h3 className="text-lg font-medium pt-8 pb-2  ">
+              <h3 className="text-lg font-medium pt-8 pb-2">
                 Beautiful Designs
               </h3>
               <p className="py-2">
