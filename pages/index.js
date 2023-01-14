@@ -216,7 +216,7 @@ export default function Home() {
           </div>
         </section>
         <section>
-          footer
+        <h4 className="py-4 text-teal-600">footer </h4>
         </section>
       </main>
     </div>
