@@ -215,6 +215,9 @@ export default function Home() {
             
           </div>
         </section>
+        <section>
+          footer
+        </section>
       </main>
     </div>
   );
